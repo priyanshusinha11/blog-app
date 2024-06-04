@@ -10,8 +10,11 @@ function PostCard({ $id, title, featuredImage }) {
                 <div className='w-full justify-center mb-4'>
                     <img src={appwriteService.getFilePreview(featuredImage)} alt={title}
                         className='rounded-xl' />
+
                 </div>
-                <h2 className='text-xl font-bold'>{title}</h2>
+                <h2
+                    className='text-xl font-bold'
+                >{title}</h2>
             </div>
         </Link>
     )

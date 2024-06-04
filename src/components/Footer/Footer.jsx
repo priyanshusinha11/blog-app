@@ -14,7 +14,7 @@ function Footer() {
               </div>
               <div>
                 <p className="text-sm text-gray-600">
-                  &copy; Copyright 2024. All Rights Reserved by ElevenTech.
+                  &copy; Copyright 2024. All Rights Reserved by eleven-tech.
                 </p>
               </div>
             </div>
