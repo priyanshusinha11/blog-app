@@ -15,7 +15,7 @@ function Footer() {
               </div>
               <div>
                 <p className="text-sm text-gray-600">
-                  &copy; Copyright 2023. All Rights Reserved by DevUI.
+                  &copy; Copyright 2024. All Rights Reserved by ElevenTechs.
                 </p>
               </div>
             </div>
@@ -23,13 +23,13 @@ function Footer() {
           <div className="w-full p-6 md:w-1/2 lg:w-2/12">
             <div className="h-full">
               <h3 className="tracking-px mb-9  text-xs font-semibold uppercase text-gray-500">
-                Give Review / meet developer
+                Developer:
               </h3>
               <ul>
                 <li className="mb-4">
                   <a
                     className=" text-base font-medium text-gray-900 hover:text-blue-500"
-                    href="https://github.com/myself-viishal"
+                    href="https://github.com/priyanshusinha11"
                     target="_blanlk"
                   >
                     GitHub
@@ -38,31 +38,10 @@ function Footer() {
                 <li className="mb-4">
                   <a
                     className=" text-base font-medium text-gray-900 hover:text-blue-500"
-                    href="https://www.instagram.com/myself_viishal"
+                    href="https://x.com/priyanshu11_"
                     target="_blanlk"
                   >
-                    instagram
-                  </a>
-                </li>
-                <h3 className="tracking-px mt-9  text-xs font-semibold uppercase text-gray-950">
-                  Special Thanks to
-                </h3>
-                <li className="mb-4">
-                  <a
-                    className=" text-base  font-medium text-gray-900 hover:text-blue-500"
-                    href="https://github.com/hiteshchoudhary"
-                    target="_blanlk"
-                  >
-                    Hitesh Chaudhary
-                  </a>
-                </li>
-                <li className="mb-4">
-                  <a
-                    className=" text-base  font-medium text-gray-900 hover:text-blue-500"
-                    href="https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige"
-                    target="_blanlk"
-                  >
-                    and his playlist
+                    Twitter
                   </a>
                 </li>
               </ul>
